@@ -2,7 +2,6 @@ package net.auriny.cosrpg;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.minecraft.client.MinecraftClient;
-import net.minecraft.client.option.GameOptions;
 import net.minecraft.client.option.Perspective;
 
 public class CoSRPGClient implements ClientModInitializer {
