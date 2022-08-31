@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "cosrpg",
+  "version": "${version}",
+
+  "name": "CoS RPG",
+  "description": "A huge very-much detailed Minecraft mod with tons of mobs, bosses, weapons, armor and etc. \f\f *This mod is a remake for one older mod that also has same name.\fIf you knew this mod as something very strange - please, forget this.\fThis mod will blow your mind!",
+
+  "authors": [
+    "Auriny"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/cosrpg/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.auriny.cosrpg.CoSRPG"
+    ],
+    "client": [
+      "net.auriny.cosrpg.CoSRPGClient"
+    ]
+  },
+  "mixins": [
+    "cosrpg.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
