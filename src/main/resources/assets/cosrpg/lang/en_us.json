@@ -1,4 +1,9 @@
 {
   "item.cosrpg.raw_cosorite": "Raw Cosorite",
-  "item.cosrpg.cosorite": "Cosorite"
+  "item.cosrpg.cosorite": "Cosorite",
+
+  "block.cosrpg.cosorite_block": "Cosorite Block",
+  "block.cosrpg.raw_cosorite_block": "Raw Cosorite Block",
+  "block.cosrpg.cosorite_ore": "Cosorite Ore",
+  "block.cosrpg.deepslate_cosorite_ore": "Deepslate Cosorite Block"
 }

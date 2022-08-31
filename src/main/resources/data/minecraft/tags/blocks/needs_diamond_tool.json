@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cosrpg:cosorite_block",
+    "cosrpg:raw_cosorite_block",
+    "cosrpg:cosorite_ore",
+    "cosrpg:deepslate_cosorite_ore"
+  ]
+}

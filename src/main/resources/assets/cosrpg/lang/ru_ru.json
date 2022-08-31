@@ -1,4 +1,9 @@
 {
   "item.cosrpg.raw_cosorite": "Рудной косорит",
-  "item.cosrpg.cosorite": "Косорит"
+  "item.cosrpg.cosorite": "Косорит",
+
+  "block.cosrpg.cosorite_block": "Косоритовый блок",
+  "block.cosrpg.raw_cosorite_block": "Блок рудного косорита",
+  "block.cosrpg.cosorite_ore": "Косоритовая руда",
+  "block.cosrpg.deepslate_cosorite_ore": "Глубиносланцевая косоритовая руда"
 }

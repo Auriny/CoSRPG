@@ -1,5 +1,6 @@
 package net.auriny.cosrpg;
 
+import net.auriny.cosrpg.block.CosBlocks;
 import net.auriny.cosrpg.item.CosItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,6 +14,7 @@ public class CoSRPG implements ModInitializer {
 	public void onInitialize() {
 		LOGGER.info("Starting...");
 		CosItems.registerModItems();
+		CosBlocks.registerModBlocks();
 	}
 
 

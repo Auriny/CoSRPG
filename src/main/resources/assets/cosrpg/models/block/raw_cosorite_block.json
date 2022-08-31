@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cosrpg:block/raw_cosorite_block"
+  }
+}

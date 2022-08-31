@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cosrpg:raw_cosorite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "cosrpg:raw_cosorite"
+  }
+}
