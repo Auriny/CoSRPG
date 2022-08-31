@@ -2,6 +2,10 @@ package net.auriny.cosrpg.mixin;
 
 import net.auriny.cosrpg.CoSRPG;
 import net.minecraft.client.gui.screen.TitleScreen;
+import net.minecraft.client.sound.Sound;
+import net.minecraft.client.sound.SoundEngine;
+import net.minecraft.client.sound.SoundExecutor;
+import net.minecraft.client.sound.SoundSystem;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
