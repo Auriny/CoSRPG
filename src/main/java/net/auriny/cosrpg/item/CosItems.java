@@ -9,6 +9,7 @@ import net.minecraft.util.registry.Registry;
 
 public class CosItems {
 
+    //Items Registry
     public static final Item RAW_COSORITE = registerItem("raw_cosorite",
             new Item(new FabricItemSettings().group(ItemGroup.MISC)));
     public static final Item COSORITE = registerItem("cosorite",
